@@ -30,4 +30,5 @@
     
 - 📫 t.senilh@gmail.com
 - 👉 https://theosenilh.fr
-- 👋 [LinkedIn](https://www.linkedin.com/in/th%C3%A9o-senilh-7b6120145/), [Instagram](https://www.instagram.com/senilhtheo/?hl=fr)
+- 👋 [LinkedIn](https://www.linkedin.com/in/th%C3%A9o-senilh-7b6120145/), [Instagram](https://www.instagram.com/senilhtheo/?hl=fr),
+[BlueSky](https://bsky.app/profile/theosenilh.bsky.social)
